@@ -229,6 +229,7 @@
     <Content Include="Global.asax" />
     <None Include="Properties\PublishProfiles\amazonec2.pubxml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Images\lou.png" />
     <Content Include="Images\rachel.png" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
